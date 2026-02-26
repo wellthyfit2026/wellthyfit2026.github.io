@@ -13,7 +13,7 @@ wp_id: 315
 comments: true
 ---
 
-Almost every weekend there are beaming pictures of me in Facebook with my running group – Runbugs. My non-running friends look at these and think that I am some super-fit elite runner.
+Almost every weekend there are beaming pictures of me in Facebook with my running group – Runbugs. My non-running friends look at these and think that I am some super-fit elite runner..
 
 I am by no means an elite runner, just an average one, and “super fit”, is really stretching it. Though I must admit I do not try very hard to dispel these myths!
 

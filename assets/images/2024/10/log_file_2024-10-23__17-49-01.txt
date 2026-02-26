@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Demo Two were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://wellthyfit.com
+Data file = /home/h3ilqz6tie7c/public_html/wp-content/uploads/2024/10/demo-content-import-file_2024-10-23__17-49-01.xml
+Widget file = /home/h3ilqz6tie7c/public_html/wp-content/uploads/2024/10/demo-widgets-import-file_2024-10-23__17-49-01.json
+Customizer file = /home/h3ilqz6tie7c/public_html/wp-content/uploads/2024/10/demo-customizer-import-file_2024-10-23__17-49-01.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+

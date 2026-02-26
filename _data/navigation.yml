@@ -1,0 +1,36 @@
+# Wellthyfit Navigation
+# Reconstructed from WordPress menus
+
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Fitness"
+    url: "/categories/fitness/"
+  - title: "Running"
+    url: "/categories/running/"
+  - title: "Yoga"
+    url: "/categories/yoga/"
+  - title: "Motivation"
+    url: "/categories/motivation/"
+  - title: "Mental Health"
+    url: "/categories/mental-health/"
+  - title: "Nutrition"
+    url: "/categories/nutrition/"
+  - title: "Lifestyle"
+    url: "/categories/lifestyle/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+
+footer:
+  - title: "Privacy Policy"
+    url: "/privacy-policy/"
+  - title: "Terms of Service"
+    url: "/terms-of-service/"
+  - title: "Disclaimers"
+    url: "/disclaimers/"
+
+secondary:
+  - title: "Subscribe"
+    url: "/subscribe/"

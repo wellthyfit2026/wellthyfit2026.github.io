@@ -1,0 +1,58 @@
+---
+layout: post
+title: "5 Reasons You Should Go Trail Running"
+date: 2018-12-06 14:48:04 +0530
+author: tanya
+categories: ["Fitness"]
+image: "/assets/images/2018/12/IMG_2060.jpg"
+excerpt: "Trail running is almost a discovery. Popular as [Trailathons](http://www.trailathon.org/), there is a big reason trail running events have found a budding craze amongst the..."
+published: false
+wp_id: 6514
+comments: true
+---
+
+Trail running is almost a discovery. Popular as [Trailathons](http://www.trailathon.org/), there is a big reason trail running events have found a budding craze amongst the [running](https://wellthyfit.com/running-runners-beginners-guide-mistakes/) community all over the world. There are thousands of runners working hard to shave off that one minute for their upcoming races. Many of these runners have gotten bored of the repetitive monotonous speed training. But the boredom is not with running and hence they seek a different running related adventure.
+
+Of course our country is blessed with the most incredible trails waiting to be explored! And don’t worry – not every trail is meant to be steep, rocky and dangerous. Unstructured dirt tracks are trails too and that’s why trail running is for everyone.
+
+**Here are 5 reasons Trail Running (Trailathon) should be on your agenda in 2019:**
+![](/assets/images/2018/12/IMG_1994.jpg)
+
+
+1. **The unforgettable taste of challenge and adventure**
+
+
+Depending upon the kind of trail you’ve signed up for, the challenge can vary. There will be mud, sweat and tears if your trail route is steep, rocky and taking you up hundreds of meters within couple of hours. The struggle on such a terrain will be real. The adventure will be different if your trail is an unpaved dirt track, you might be crossing streams. But what is a life that didn’t push beyond the comfort zone?
+
+
+1. **You have no choice but to leave the time-mania behind**
+
+
+Even the most [timing-obsessed runners](https://wellthyfit.com/announcing-race-timings-demotivating-motivating-run-mates/) relax just a bit to soak in the environs of the trail. Because that really is the point of once-in-a-while trail running opportunities. You take a break from looking at your watch and enjoy the roots and rocks of the unstructured dirt track which is a rare opportunity for most of the city runners starved of exciting routes on daily basis.
+
+![](/assets/images/2018/12/IMG_2165.jpg)
+
+
+1. **Makes for a welcome break from road and city running**
+
+
+You can easily break the monotony of running the same loops around your area day in and day out, by just signing up for an upcoming trail run that is either a short drive from your city or somewhere in the mountains. Trail running events knows as Trailathons have come up big time in India and there are some serious organizers behind such events. A lot of runners have today developed a whole family vacation around trail running events. Trail running events are family friendly too - allowing for camping, [short treks](https://wellthyfit.com/amateurs-guide-first-trek-2/) and socializing for the non-runners of the family while the runner explores the trail.
+
+
+1. **The uncountable benefits of being amidst nature**
+
+
+The challenges and adventures come surrounded by everything nature-esque. You let lose, you forget to look at your watch, you feel less worried. With the quiet and peace of the environs that surround an unpaved route comes a beautiful mind and foot rhythm.  Some trail that take you high up in altitude throw magnificent views. As mentioned before India has no dearth of these mind blowing dirt tracks both for the runner and the walker.
+
+
+1. **Stronger legs, Stronger runner**
+
+
+You might feel more exhausted post a trail run given the terrain you have chosen, but it actually strengthens the runner in you. Nobody ever came back from a trail saying – I won’t go back because I am exhausted. As you run through even relatively easier trails, you end up working your muscles, tendons and ligaments much more than you do on road or treadmill. When you pick up tougher trails that take you up and down the hills, you strengthen your glutes, calves, and core.
+
+**![](/assets/images/2018/12/IMG_2149.jpg)Finally,**the transitioning from the road to the trail won’t be that easy for the first time trail runner but that should not be a reason to not try trail running at all. You could land up yourself an awe-inspiring weekend. You run to add an experience and hence stop comparing yourself to your watch, your past, your run buddies.
+
+Walk. Run. Stop. Jog. Walk. Run. Whatever your rhythm – Just rock and roll the trail and have a blast!
+
+
+##### An upcoming event you would like to be a part of is [http://www.kangracrosscountry.coachravinder.com/event-details.html](http://www.kangracrosscountry.coachravinder.com/event-details.html)

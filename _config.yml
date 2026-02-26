@@ -1,0 +1,75 @@
+# Wellthyfit Jekyll Configuration
+# Migrated from WordPress on 2026-02-26
+
+title: Wellthyfit
+tagline: "Fitness, Running, Yoga & Wellness"
+description: >-
+  Wellthyfit is a health and fitness community featuring articles on running,
+  yoga, nutrition, mental health, and motivation from 52 contributors.
+url: "https://wellthyfit.com"
+baseurl: ""
+
+# Author defaults
+author:
+  name: Tanya
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+timezone: Asia/Kolkata
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+# Pagination
+paginate: 12
+paginate_path: "/page/:num/"
+
+# Comments (Disqus)
+disqus:
+  shortname: wellthyfit
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - vendor
+  - node_modules
+
+# SEO
+twitter:
+  card: summary_large_image
+social:
+  name: Wellthyfit
+  links: []
+
+# Analytics (add your GA4 measurement ID)
+# google_analytics: G-XXXXXXXXXX

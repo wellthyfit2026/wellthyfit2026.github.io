@@ -1,0 +1,110 @@
+# Wellthyfit Categories
+
+art-design:
+  name: "Art &amp; Design"
+  slug: "art-design"
+
+beauty:
+  name: "Beauty"
+  slug: "beauty"
+
+diets:
+  name: "Diets"
+  slug: "diets"
+  parent: "nutrition"
+
+fitness:
+  name: "Fitness"
+  slug: "fitness"
+
+health:
+  name: "Health"
+  slug: "health"
+
+lifestyle:
+  name: "Lifestyle"
+  slug: "lifestyle"
+  parent: "runners-stories"
+
+mental-health:
+  name: "Mental Health"
+  slug: "mental-health"
+  parent: "health"
+
+motivation:
+  name: "Motivation"
+  slug: "motivation"
+
+nutrition:
+  name: "Nutrition"
+  slug: "nutrition"
+  parent: "health"
+
+relationship:
+  name: "Relationship"
+  slug: "relationship"
+  parent: "lifestyle"
+
+reviews:
+  name: "Reviews"
+  slug: "reviews"
+
+runners-stories:
+  name: "Runners' Stories"
+  slug: "runners-stories"
+
+running:
+  name: "Running"
+  slug: "running"
+  parent: "fitness"
+
+running-nutrition:
+  name: "Running Nutrition"
+  slug: "running-nutrition"
+  parent: "nutrition"
+
+slider:
+  name: "Slider"
+  slug: "slider"
+
+stay-motivated:
+  name: "Stay Motivated"
+  slug: "stay-motivated"
+  parent: "motivation"
+
+the-writer-in-you:
+  name: "The Writer in You"
+  slug: "the-writer-in-you"
+
+travel:
+  name: "Travel"
+  slug: "travel"
+  parent: "lifestyle"
+
+uncategorized:
+  name: "Uncategorized"
+  slug: "uncategorized"
+
+weight-loss:
+  name: "Weight Loss"
+  slug: "weight-loss"
+  parent: "fitness"
+
+wellthyfitdaily:
+  name: "Wellthyfitdaily"
+  slug: "wellthyfitdaily"
+
+women-wellness:
+  name: "Women Wellness"
+  slug: "women-wellness"
+  parent: "health"
+
+yoga:
+  name: "Yoga"
+  slug: "yoga"
+  parent: "fitness"
+
+your-fitness-story:
+  name: "Your Fitness Story"
+  slug: "your-fitness-story"
+  parent: "fitness"

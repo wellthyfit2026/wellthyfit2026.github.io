@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Running : My Individual Pacing experiences - #HeforShe﻿"
+title: "Running : My Individual Pacing experiences - #HeforShe"
 date: 2019-02-26 18:23:19 +0530
 author: muthukrishnan-jayaraman
 categories: ["Health", "Mental Health", "Motivation", "Running", "Stay Motivated"]
@@ -9,6 +9,7 @@ excerpt: "Pacing and Pinkathon have given an opportunity to male runners to crea
 description: "Pacing and Pinkathon have given an opportunity to male runners to create a world of healthy women, healthy families and a healthier gen-next. #HeforShe"
 seo_keyword: "#HeforShe"
 redirect_from:
+  - "/running-my-individual-pacing-experiences-heforshe/"
   - "/running-my-individual-pacing-experiences-heforshe%ef%bb%bf/"
 wp_id: 7403
 comments: true

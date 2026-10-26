@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Things I Did in the Last Week Leading to My First Full Marathon﻿"
+title: "Things I Did in the Last Week Leading to My First Full Marathon"
 date: 2019-02-23 10:41:12 +0530
 author: tanya
 categories: ["Fitness", "Running"]
@@ -10,6 +10,7 @@ excerpt: "The first full marathon and all the nervous excitement in the days bef
 description: "The first full marathon and all the nervous excitement in the days before it. That is exactly what this blog is about - the last 5 days before the big race."
 seo_keyword: "Full marathon"
 redirect_from:
+  - "/things-i-did-in-the-last-week-leading-to-my-first-full-marathon/"
   - "/things-i-did-in-the-last-week-leading-to-my-first-full-marathon%ef%bb%bf/"
 wp_id: 7404
 comments: true

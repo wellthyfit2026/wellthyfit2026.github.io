@@ -25,7 +25,7 @@ If I refused to have Channa Bhatura ( a combination of spicy chick peas and frie
 
 My mother, completely out of love for watching her daughter burn the midnight oil, would feed me for 3 people before I left for my college exams. I remember vomiting before writing 3 of my 5 exams before entering the examination hall!!!! ( yes - I passed).
 
-[video width="208" height="152" mp4="https://wellthyfit.com/wp-content/uploads/2019/09/WhatsApp-Video-2019-09-18-at-11.25.17.mp4" loop="true" autoplay="true"][/video]
+<video src="/assets/images/2019/09/WhatsApp-Video-2019-09-18-at-11.25.17.mp4" width="208" height="152" style="max-width:100%;height:auto" controls playsinline preload="metadata" loop autoplay muted></video>
 
 **Coming back to the point** - Running, Runner and FOOD have a relationship! One that should be sensible, planned and that fuels the body especially when you are getting into marathon training! I recently wrote about [my first full marathon](https://wellthyfit.com/running-my-first-full-marathon-magical-beginnings/)and a few queries on my nutrition came in.
 

@@ -24,7 +24,7 @@ My shoes, my love for [travelling and running](https://wellthyfit.com/running-th
 Firstly I loved how easy the travel to Jhansi was. A train that goes straight from Delhi to Jhansi!  It was super convenient and relaxing with two kids in tow.
 
 
-[video width="640" height="480" mp4="https://wellthyfit.com/wp-content/uploads/2019/12/WhatsApp-Video-2019-12-22-at-22.36.53.mp4" loop="true" autoplay="true" preload="auto"][/video]
+<video src="/assets/images/2019/12/WhatsApp-Video-2019-12-22-at-22.36.53.mp4" width="640" height="480" style="max-width:100%;height:auto" controls playsinline preload="metadata" loop autoplay muted></video>
 
 
 Jhansi is a transit hub to Orchha, Khajuraho and Gwalior. But just coming back to Jhansi - it's green, lots of history in and around. The highlight of my visit to Jhansi was exploring the Jhansi Fort with my kids. The stories of Rani lakshmibai's warrior bravery truly comes to life as you walk around the fort. I wish a big world director picks up the story of this brave warrior and makes an unforgettable animation movie! I wish!

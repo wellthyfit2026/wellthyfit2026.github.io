@@ -33,7 +33,7 @@ Sukhasana is one of the basic yoga asana and suitable for yogis of all levels. T
 
 Tadasana is simply known for stretching, which forms the basis for all standing as standing asanas. It performed at the beginning and end of the Surya Namaskar (read my article on Surya Namaskar [here](https://wellthyfit.com/the-secret-8/)) sequence and is a key asana for all yoga practices. It's a good asana for cultivating strength, sense of relaxed power and it also can be helpful for both physically and mentally grounding, and can be used to form a connection with the earth. The longer you learn to stay in it with proper breathing, the more it calms your mind and benefits your heart. And this asana can be practiced by anyone.
 
-![](/assets/images/2018/11/Screenshot_20181127-180512_2-300x281.png)
+![](/assets/images/2018/11/Screenshot_20181127-180512_2.jpg)
 
  
 

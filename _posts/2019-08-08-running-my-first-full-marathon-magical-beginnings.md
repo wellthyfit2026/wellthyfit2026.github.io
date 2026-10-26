@@ -105,7 +105,7 @@ Some struggles are deeply personal. You attach a number to it and you lose the e
 ## **The D-Day Morning:**
 
 
-1.30 am wake up, eat, get dressed, and travel to Delhi for 40 minutes and start running at 4 am. The 40 minutes drive from Gurgaon to Delhi, I reread the race day strategy that Alfie had written to me a couple of days back( I have saved the golden words – they make for timeless learnings). (You could read about all that I did in the last week before the race [here](https://wellthyfit.com/things-i-did-in-the-last-week-leading-to-my-first-full-marathon%ef%bb%bf/))
+1.30 am wake up, eat, get dressed, and travel to Delhi for 40 minutes and start running at 4 am. The 40 minutes drive from Gurgaon to Delhi, I reread the race day strategy that Alfie had written to me a couple of days back( I have saved the golden words – they make for timeless learnings). (You could read about all that I did in the last week before the race [here](/2019/02/23/things-i-did-in-the-last-week-leading-to-my-first-full-marathon/))
 
 
 ![](/assets/images/2019/08/me-at-ndm.jpg)

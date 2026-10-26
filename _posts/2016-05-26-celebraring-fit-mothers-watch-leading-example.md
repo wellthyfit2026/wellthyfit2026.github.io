@@ -6,11 +6,11 @@ author: tanya
 categories: ["Fitness"]
 tags: ["celebrating", "fit", "mothers"]
 image: "/assets/images/2016/05/1234567-copy-1.jpg"
-excerpt: "[video width=\"1920\" height=\"1080\" mp4=\"https://wellthyfit.com/wp-content/uploads/2016/05/WELLTHYFIT-CANVIAR-Final23.mp4\"][/video]"
+excerpt: "A short film celebrating fit mothers who lead by example."
 redirect_from:
   - "/celebraring-fit-mothers-watch-leading-example/"
 wp_id: 310
 comments: true
 ---
 
-[video width="1920" height="1080" mp4="https://wellthyfit.com/wp-content/uploads/2016/05/WELLTHYFIT-CANVIAR-Final23.mp4"][/video]
+<video src="/assets/images/2016/05/WELLTHYFIT-CANVIAR-Final23.mp4" width="1920" height="1080" style="max-width:100%;height:auto" controls playsinline preload="metadata"></video>

@@ -7,3 +7,5 @@ node_modules/
 *.zip
 download_media.sh
 media_urls.txt
+
+.DS_Store

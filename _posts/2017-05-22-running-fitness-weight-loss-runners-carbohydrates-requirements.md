@@ -10,6 +10,7 @@ description: "Despite running, many of us are not able to lose weight? Are we st
 seo_keyword: "Running"
 redirect_from:
   - "/running-fitness-weight-loss-runners-carbohydrates-requirements/"
+  - "/running-weight-loss-runners-carbohydrates-requirements/"
 wp_id: 3388
 comments: true
 ---

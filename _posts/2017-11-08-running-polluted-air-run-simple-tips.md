@@ -10,6 +10,7 @@ description: "Running through severe pollution this evening, I had my own set of
 seo_keyword: "air"
 redirect_from:
   - "/running-polluted-air-run-simple-tips/"
+  - "/running-polluted-air-run/"
 wp_id: 4875
 comments: true
 ---

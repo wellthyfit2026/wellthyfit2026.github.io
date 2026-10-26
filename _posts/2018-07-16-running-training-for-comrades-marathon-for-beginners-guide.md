@@ -10,6 +10,7 @@ description: "A Go-To-Guide for everyone who wants to dare to run the Comrades M
 seo_keyword: "comrades"
 redirect_from:
   - "/running-training-for-comrades-marathon-for-beginners-guide/"
+  - "/running-training-for-comrades-marathon-for-beginners/"
 wp_id: 6151
 comments: true
 ---

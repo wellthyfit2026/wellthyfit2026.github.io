@@ -11,6 +11,7 @@ description: "How does the mind of a ‘never say die’ athlete work? What prep
 seo_keyword: "Mental strength, mental power, never say die, athletes, mental stuff, motivation"
 redirect_from:
   - "/finding-mental-strength-joginder-chandna-ultra-runner/"
+  - "/finding-mental-strength-saachi-soni-mountaineer/"
 wp_id: 2037
 comments: true
 ---

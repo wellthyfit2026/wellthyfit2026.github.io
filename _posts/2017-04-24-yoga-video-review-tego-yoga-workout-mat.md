@@ -10,6 +10,7 @@ description: "Yoga is a lot about getting into the right poses. This Alignment Y
 seo_keyword: "Mat"
 redirect_from:
   - "/yoga-video-review-tego-yoga-workout-mat/"
+  - "/video-review-tego-stance-yoga-workout-mat/"
 wp_id: 3153
 comments: true
 ---

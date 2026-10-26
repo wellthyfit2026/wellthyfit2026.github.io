@@ -9,6 +9,7 @@ image: "/assets/images/2016/06/Tom-hanks-yoga-wellthyfit-canviar.jpg"
 excerpt: "The big Hollywood entity endorses Yoga to be one of the best things! And with this the list of distinguished people who love Yoga is growing by leaps and bounds!  The actor turns 60 on July 9. He..."
 redirect_from:
   - "/yoga-new-fan-tom-hanks/"
+  - "/yoga-new-fan-tom-hanks__trashed/"
 wp_id: 401
 comments: true
 ---

@@ -10,6 +10,7 @@ description: "For the longest time, I remember frantically worrying about the mo
 seo_keyword: "An Ode to Now"
 redirect_from:
   - "/a-lock-does-not-come-without-the-key-lockdown-an-ode-to-now/"
+  - "/a-lock-does-not-come-without-the-key-an-ode-to-now/"
 wp_id: 9042
 comments: true
 ---

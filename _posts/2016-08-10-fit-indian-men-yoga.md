@@ -11,6 +11,7 @@ description: "The super fit Indian male is indifferent to yoga. Is it because it
 seo_keyword: "men"
 redirect_from:
   - "/fit-indian-men-yoga/"
+  - "/dont-fit-indian-men-yoga/"
 wp_id: 1670
 comments: true
 ---

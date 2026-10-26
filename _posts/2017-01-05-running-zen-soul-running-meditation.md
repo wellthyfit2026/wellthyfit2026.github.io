@@ -11,6 +11,7 @@ description: "Zen Running,Soul Running or Running Meditation is about the spirit
 seo_keyword: "meditation"
 redirect_from:
   - "/running-zen-soul-running-meditation/"
+  - "/zenrunning-soulrunning-runningmeditation/"
 wp_id: 2342
 comments: true
 ---

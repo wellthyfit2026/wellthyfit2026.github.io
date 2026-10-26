@@ -10,6 +10,9 @@ description: "An itch to explore the mountains. But never have done before. You 
 seo_keyword: "trek"
 redirect_from:
   - "/amateurs-guide-first-trek-2/"
+  - "/amateurs-guide-first-trek/"
+  - "/amateurs-guide-first-trek-2__trashed/"
+  - "/amateurs-guide-first-trek/"
 wp_id: 411
 comments: true
 ---

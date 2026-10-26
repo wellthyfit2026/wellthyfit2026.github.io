@@ -11,6 +11,9 @@ description: "Why do we do running streaks? Lack of something, the want of somet
 seo_keyword: "Running"
 redirect_from:
   - "/running-thoughts-from-a-10-day-running-streak-by-a-runmom/"
+  - "/running-thoughts-from-a-10-day-running-streak/"
+  - "/running-thoughts-from-a-10-day-running-streak-by-a-runnergirl/"
+  - "/running-thoughts-from-a-10-day-running-streak-by-a-runner/"
 wp_id: 9555
 comments: true
 ---

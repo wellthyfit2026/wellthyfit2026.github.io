@@ -11,6 +11,8 @@ description: "An olympic level full marathon has much advise to give out to the 
 seo_keyword: "marathon"
 redirect_from:
   - "/running-marathon-refueling-hydration-startegies/"
+  - "/refueling-strategy-2-lessons-rio-olympics-full-marathon/"
+  - "/refueling-lessons-rio-olympics-full-marathon/"
 wp_id: 1808
 comments: true
 ---

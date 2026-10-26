@@ -10,6 +10,7 @@ description: "What happens when a Justin Timberlake fan goes running on a breezy
 seo_keyword: "run"
 redirect_from:
   - "/running-muse-justin-timberlake/"
+  - "/running-muse-running-rocking/"
 wp_id: 2577
 comments: true
 ---

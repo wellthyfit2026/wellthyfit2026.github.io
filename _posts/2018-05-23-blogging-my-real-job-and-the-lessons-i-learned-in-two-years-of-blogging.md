@@ -10,6 +10,8 @@ description: "It's my Blogiversary! Where has the time gone? What did I expect? 
 seo_keyword: "Blogging"
 redirect_from:
   - "/blogging-my-real-job-and-the-lessons-i-learned-in-two-years-of-blogging/"
+  - "/my-two-years-of-blogging/"
+  - "/blogging-my-real-job-and-the-lessons-i-learned-in-two-years/"
 wp_id: 5869
 comments: true
 ---

@@ -10,6 +10,7 @@ description: "Chi Running is not easy to understand. For this reason take your t
 seo_keyword: "Chi Running"
 redirect_from:
   - "/running-chi-running-how-to-practice/"
+  - "/running-chi-running-theory-practice/"
 wp_id: 3823
 comments: true
 ---

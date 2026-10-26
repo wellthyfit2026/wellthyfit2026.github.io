@@ -11,6 +11,7 @@ description: "There's a lot of sugar hiding in our everyday food! Going complete
 seo_keyword: "Sugar"
 redirect_from:
   - "/sugar-free-cultivating-great-diet-change/"
+  - "/going-sugar-free-cultivating-great-diet-change/"
 wp_id: 2760
 comments: true
 ---

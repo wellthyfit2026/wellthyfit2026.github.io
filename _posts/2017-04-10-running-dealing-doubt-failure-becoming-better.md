@@ -9,6 +9,7 @@ image: "/assets/images/2017/04/tanya-running-on-marine-drive-640x640.bak.jpg"
 excerpt: "Doubt creeps in! No matter how hard you train! No matter how disciplined you are! No matter how steel-y you are!  **Last year** – I was on a pursuit of becoming awesome (I still am)! I started my..."
 redirect_from:
   - "/running-dealing-doubt-failure-becoming-better/"
+  - "/dealing-doubt-failure-running/"
 wp_id: 3054
 comments: true
 ---

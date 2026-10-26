@@ -10,6 +10,7 @@ description: "Fitness. Begin small. If you don’t do anything at all, begin to 
 seo_keyword: "Fitness"
 redirect_from:
   - "/fitness-how-to-stay-fit-after-40-anju-maudgal-kadam-never-settle/"
+  - "/fitness-how-to-stay-fit-after-40-anju-mudgal-kadam/"
 wp_id: 5945
 comments: true
 ---

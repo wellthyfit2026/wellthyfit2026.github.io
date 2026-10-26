@@ -10,6 +10,7 @@ excerpt: "Every woman is different when it comes to her menstrual cycle but usin
 description: "Every woman is different when it comes to her menstrual cycle but using science to guide your training choices would be smart. Here's all a woman athlete should know for better performance"
 redirect_from:
   - "/woman-fitness-how-to-train-best-during-phases-of-menstruation/"
+  - "/woman-fitness-how-to-train-during-all-phases-of-menstruation/"
 wp_id: 8893
 comments: true
 ---

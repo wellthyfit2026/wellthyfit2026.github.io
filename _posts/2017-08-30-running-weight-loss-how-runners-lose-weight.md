@@ -10,6 +10,7 @@ description: "Runners don't lose weight by running day after day. You need a bal
 seo_keyword: "runners"
 redirect_from:
   - "/running-weight-loss-how-runners-lose-weight/"
+  - "/weight-loss-running-how-runners-lose-weight/"
 wp_id: 4112
 comments: true
 ---

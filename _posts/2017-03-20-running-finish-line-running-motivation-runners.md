@@ -10,6 +10,7 @@ description: "On Race Day the Finish Line is the most coveted piece of real esta
 seo_keyword: "Motivation"
 redirect_from:
   - "/running-finish-line-running-motivation-runners/"
+  - "/finish-line-running-motivation-runners/"
 wp_id: 2887
 comments: true
 ---

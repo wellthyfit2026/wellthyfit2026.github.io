@@ -11,6 +11,7 @@ description: "Yoga is the best and the only way to build flexibility in your bod
 seo_keyword: "Yoga"
 redirect_from:
   - "/yoga-poses-inflexible-runners-beginners/"
+  - "/yoga-poses-inflexible-runners-beginners__trashed/"
 wp_id: 581
 comments: true
 ---

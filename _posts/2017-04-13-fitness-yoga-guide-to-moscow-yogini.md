@@ -9,6 +9,7 @@ image: "/assets/images/2017/04/MODERN-RUSSIA-768x1024.bak.jpg"
 excerpt: "I tried very hard to find people who had either visited Moscow in the last 4-5 years or made non-work trips here. Couldn´t find anyone in my close circle! This kept the mysterious touch to Moscow..."
 redirect_from:
   - "/fitness-yoga-guide-to-moscow-yogini/"
+  - "/yoginis-photo-guide-moscow-taking-passion-places/"
 wp_id: 3063
 comments: true
 ---

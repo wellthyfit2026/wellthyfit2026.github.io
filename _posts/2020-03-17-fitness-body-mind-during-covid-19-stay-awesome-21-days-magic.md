@@ -10,6 +10,10 @@ description: "Are you awesome? When did you pat yourself last? Broke the comfort
 seo_keyword: "Awesome"
 redirect_from:
   - "/fitness-body-mind-during-covid-19-stay-awesome-21-days-magic/"
+  - "/become-awesome-21-days-magic/"
+  - "/motivation-awesome-21-days-magic/"
+  - "/fitness-health-mind-motivation-awesome-21-days-magic/"
+  - "/fitness-body-mind-motivation-awesome-21-days-magic/"
 wp_id: 3047
 comments: true
 ---

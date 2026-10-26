@@ -11,6 +11,8 @@ description: "This is the story of an Endurance Runner who thinks he is Superman
 seo_keyword: "Endurance Runner"
 redirect_from:
   - "/running-endurance-runner-you-are-not-normal-you-are-superman/"
+  - "/running-you-are-an-endurance-runner-you-are-not-norma-lyou-are-a-superman/"
+  - "/running-you-are-an-endurance-runner-you-are-not-normal-you-are-superman/"
 wp_id: 4505
 comments: true
 ---

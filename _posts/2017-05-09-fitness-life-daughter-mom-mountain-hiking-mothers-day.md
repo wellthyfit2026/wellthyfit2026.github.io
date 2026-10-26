@@ -11,6 +11,9 @@ description: "On Mothers day, 2 years back, I took my 4.5 year old daughter, Hik
 seo_keyword: "Hiking"
 redirect_from:
   - "/fitness-life-daughter-mom-mountain-hiking-mothers-day/"
+  - "/life-fitness-daughter-mom-mountain-hiking-mothers-day/"
+  - "/fitness-mom-daughter-mountain-hiking-mothers-day/"
+  - "/fitness-daughter-mom-mountain-hiking-mothers-day/"
 wp_id: 3295
 comments: true
 ---

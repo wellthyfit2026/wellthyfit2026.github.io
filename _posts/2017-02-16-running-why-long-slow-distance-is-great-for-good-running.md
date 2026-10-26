@@ -11,6 +11,9 @@ description: "The Long slow distance (LSD) running improves your ability to run 
 seo_keyword: "running"
 redirect_from:
   - "/running-why-long-slow-distance-is-great-for-good-running/"
+  - "/2615-2/"
+  - "/running-long-slow-distance/"
+  - "/running-magic-long-slow-distance/"
 wp_id: 2615
 comments: true
 ---

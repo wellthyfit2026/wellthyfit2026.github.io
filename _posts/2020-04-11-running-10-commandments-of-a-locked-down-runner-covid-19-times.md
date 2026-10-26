@@ -10,6 +10,9 @@ excerpt: "The world is re-writing the rules of living every passing day with Cov
 description: "The world is re-writing the rules of living every passing day with Covid-19 gripping us, here are some rules every runner could remind herself off."
 redirect_from:
   - "/running-10-commandments-of-a-locked-down-runner-covid-19-times/"
+  - "/10-commandments-of-a-lockdown-ed-runner/"
+  - "/running-10-commandments-of-a-lockdown-ed-runner-covid-19/"
+  - "/running-10-commandments-of-a-lockdown-ed-runner-covid-19-times/"
 wp_id: 8810
 comments: true
 ---

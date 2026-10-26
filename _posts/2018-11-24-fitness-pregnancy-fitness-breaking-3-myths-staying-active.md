@@ -11,6 +11,8 @@ description: "Pregnancy Fitness is about taking charge of your health in an acti
 seo_keyword: "Pregnancy"
 redirect_from:
   - "/fitness-pregnancy-fitness-breaking-3-myths-staying-active/"
+  - "/pregnancy-fitness__trashed/"
+  - "/pregnancy-fitness/"
 wp_id: 462
 comments: true
 ---

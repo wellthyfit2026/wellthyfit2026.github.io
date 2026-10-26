@@ -9,6 +9,7 @@ image: "/assets/images/2016/06/choco.jpg"
 excerpt: "There is a chocolate full of controversy always in every person’s life! The only thing you can’t resist doing with it is unwarp it and eat it! The guilt post the ingestion is normal, but the story..."
 redirect_from:
   - "/health-observations-chocolate-lover/"
+  - "/health-observations-chocolate-lover__trashed/"
 wp_id: 471
 comments: true
 ---

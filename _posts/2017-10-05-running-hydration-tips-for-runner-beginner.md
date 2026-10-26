@@ -10,6 +10,7 @@ description: "Hydration is key for every person who is active! Re-Fueling is Re-
 seo_keyword: "Hydration"
 redirect_from:
   - "/running-hydration-tips-for-runner-beginner/"
+  - "/sip-sip-sip-hydrate-dont-hesitate/"
 wp_id: 4281
 comments: true
 ---

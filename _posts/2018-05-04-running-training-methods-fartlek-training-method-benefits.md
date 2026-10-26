@@ -11,6 +11,7 @@ description: "Running comes with various training menthods. Fartleks are differe
 seo_keyword: "Fartleks, Running, Training"
 redirect_from:
   - "/running-training-methods-fartlek-training-method-benefits/"
+  - "/fartlek-training-method-benefits/"
 wp_id: 1952
 comments: true
 ---

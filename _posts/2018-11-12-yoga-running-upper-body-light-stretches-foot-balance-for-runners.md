@@ -11,6 +11,8 @@ description: "As runners we tend to keep working on our legs, especially the beg
 seo_keyword: "yoga"
 redirect_from:
   - "/yoga-running-upper-body-light-stretches-foot-balance-for-runners/"
+  - "/yoga-runners-2-upper-body-light-stretches-foot-balance__trashed/"
+  - "/yoga-runners-2-upper-body-light-stretches-foot-balance/"
 wp_id: 1572
 comments: true
 ---

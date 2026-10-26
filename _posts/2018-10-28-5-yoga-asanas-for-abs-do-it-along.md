@@ -10,6 +10,9 @@ description: "5 Yoga asanas for working on those abs with mindful breathing and 
 seo_keyword: "yoga"
 redirect_from:
   - "/5-yoga-asanas-for-abs-do-it-along/"
+  - "/5-great-yoga-poses-abs-along-seema-tanya/"
+  - "/5-great-yoga-asanas-for-abs-do-it-along-seema-tanya/"
+  - "/5-yoga-asanas-for-abs-do-it-along-seema-tanya/"
 wp_id: 3058
 comments: true
 ---

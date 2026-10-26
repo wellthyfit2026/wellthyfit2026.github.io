@@ -11,6 +11,8 @@ description: "A Runner's battle-drill starts when you shut-down the household ea
 seo_keyword: "mind over matter"
 redirect_from:
   - "/running-runners-motivation-mantra-mind-over-matter/"
+  - "/runners-mantra-mind-matter/"
+  - "/runners-mantra-mind/"
 wp_id: 1975
 comments: true
 ---

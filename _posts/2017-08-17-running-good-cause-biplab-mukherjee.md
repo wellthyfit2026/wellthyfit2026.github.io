@@ -10,6 +10,7 @@ description: "Running has its various shades. There is a side to it that benefit
 seo_keyword: "Running"
 redirect_from:
   - "/running-good-cause-biplab-mukherjee/"
+  - "/running-good-cause-biplap-mukherjee/"
 wp_id: 4003
 comments: true
 ---

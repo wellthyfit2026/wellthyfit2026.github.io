@@ -11,6 +11,8 @@ description: "Surya Namaskars or Sun Salutations is the best yoga any beginner c
 seo_keyword: "surya namaskars"
 redirect_from:
   - "/yoga-surya-namaskars-sun-salutations-for-beginners/"
+  - "/the-secret-8__trashed/"
+  - "/the-secret-8/"
 wp_id: 128
 comments: true
 ---

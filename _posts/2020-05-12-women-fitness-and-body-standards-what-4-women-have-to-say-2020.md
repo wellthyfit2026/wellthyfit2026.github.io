@@ -11,6 +11,7 @@ description: "What are we hitting the gyms for? Doing yoga for? Those gruelling 
 seo_keyword: "Fitness Body Standards"
 redirect_from:
   - "/women-fitness-and-body-standards-what-4-women-have-to-say-2020/"
+  - "/women-fitness-and-body-standards-what-4-women-have-to-say/"
 wp_id: 8883
 comments: true
 ---

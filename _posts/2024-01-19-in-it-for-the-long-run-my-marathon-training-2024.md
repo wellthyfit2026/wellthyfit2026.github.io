@@ -10,6 +10,7 @@ description: "And it’s my long run day….a day of putting in the miles and pu
 seo_keyword: "The Long Run"
 redirect_from:
   - "/in-it-for-the-long-run-my-marathon-training-2024/"
+  - "/in-it-for-the-long-run/"
 wp_id: 10177
 comments: true
 ---

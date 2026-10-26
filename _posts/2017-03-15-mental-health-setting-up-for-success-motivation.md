@@ -11,6 +11,7 @@ description: "Trying to lose weight?Going for your first solo travel? Writing yo
 seo_keyword: "Success"
 redirect_from:
   - "/mental-health-setting-up-for-success-motivation/"
+  - "/setting-up-for-success-motivation/"
 wp_id: 2868
 comments: true
 ---

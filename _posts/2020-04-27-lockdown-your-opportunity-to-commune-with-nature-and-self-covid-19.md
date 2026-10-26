@@ -11,6 +11,7 @@ description: "There is a chasm of ignorance between a cursory glance and meditat
 seo_keyword: "Lockdown"
 redirect_from:
   - "/lockdown-your-opportunity-to-commune-with-nature-and-self-covid-19/"
+  - "/lockdown-your-opportunity-to-commune-with-nature-and-self/"
 wp_id: 8876
 comments: true
 ---

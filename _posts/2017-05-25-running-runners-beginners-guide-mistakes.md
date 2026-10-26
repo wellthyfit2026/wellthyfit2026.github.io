@@ -11,6 +11,7 @@ description: "Running mistakes can happen with beginners and amateurs alike! But
 seo_keyword: "Beginners"
 redirect_from:
   - "/running-runners-beginners-guide-mistakes/"
+  - "/a-runners-beginners-guide-running-unforgettable-mistakes/"
 wp_id: 3418
 comments: true
 ---

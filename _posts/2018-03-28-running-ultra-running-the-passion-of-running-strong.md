@@ -11,6 +11,8 @@ description: "Ultra running is something that happens by transition - you start 
 seo_keyword: "Ultra Running"
 redirect_from:
   - "/running-ultra-running-the-passion-of-running-strong/"
+  - "/ultra-running-become-unbound__trashed/"
+  - "/ultra-running-become-unbound/"
 wp_id: 569
 comments: true
 ---

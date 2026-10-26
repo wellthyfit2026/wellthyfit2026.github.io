@@ -11,6 +11,7 @@ description: "A gynaecologist's take on how running as an excercise benefits wom
 seo_keyword: "Gynaecologist"
 redirect_from:
   - "/running-benefits-women-a-gynaecologists-point-of-view/"
+  - "/running-benefits-women-a-gynocologists-point-of-view/"
 wp_id: 7471
 comments: true
 ---

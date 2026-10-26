@@ -9,6 +9,7 @@ excerpt: "And the second tempo run of my week 2/8 of marathon training is DONEZO
 description: "And the second tempo run of my week 2/8 of marathon training is DONEZO!!"
 redirect_from:
   - "/tempo-2-week-2-pizza-cake-wine-marathon-training/"
+  - "/tempo-2-of-week-2-pizza-cake-wine-and-marathon-training/"
 wp_id: 10151
 comments: true
 ---

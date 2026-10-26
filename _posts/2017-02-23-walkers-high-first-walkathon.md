@@ -11,6 +11,7 @@ description: "Love walking? Have been a walker for life? But never felt the Walk
 seo_keyword: "walker"
 redirect_from:
   - "/walkers-high-first-walkathon/"
+  - "/2679-2/"
 wp_id: 2679
 comments: true
 ---

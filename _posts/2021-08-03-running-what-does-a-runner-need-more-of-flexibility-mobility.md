@@ -11,6 +11,7 @@ description: "The pursuit of injury free running will constantly make us unlearn
 seo_keyword: "runner"
 redirect_from:
   - "/running-what-does-a-runner-need-more-of-flexibility-mobility/"
+  - "/running-flexibility-mobility-what-does-a-runner-need-more-of/"
 wp_id: 9684
 comments: true
 ---

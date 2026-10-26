@@ -11,6 +11,9 @@ description: "Running and Runners! While running is simple, everyone who calls h
 seo_keyword: "runner"
 redirect_from:
   - "/running-not-every-male-running-is-a-runner/"
+  - "/takeaway-male-runners__trashed/"
+  - "/takeaway-male-runners/"
+  - "/running-takeaway-male-runners-food-for-thought/"
 wp_id: 543
 comments: true
 ---

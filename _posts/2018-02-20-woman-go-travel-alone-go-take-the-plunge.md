@@ -10,6 +10,7 @@ description: "You travel to a new destination, feel liberated, feel terrified, w
 seo_keyword: "travel"
 redirect_from:
   - "/woman-go-travel-alone-go-take-the-plunge/"
+  - "/travel-alone-go-take-the-plunge/"
 wp_id: 5467
 comments: true
 ---

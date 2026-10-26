@@ -11,6 +11,7 @@ description: "Running a marathon is no rocket science but you are a better marat
 seo_keyword: "marathon"
 redirect_from:
   - "/running-how-to-lift-a-faster-marathon-part-story-part-1/"
+  - "/running-how-to-lift-a-faster-marathon-part-1/"
 wp_id: 7692
 comments: true
 ---

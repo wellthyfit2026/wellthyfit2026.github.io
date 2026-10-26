@@ -11,6 +11,10 @@ description: "A blogger recounts his magical expereince with the Wim Hof Method.
 seo_keyword: "Wim Hof"
 redirect_from:
   - "/breathing-training-your-mind-the-wim-hof-method-techniques-immunity-building/"
+  - "/breathing-training-your-mind-what-is-the-wim-hoff-method/"
+  - "/breathing-training-your-mindwhat-is-the-wim-hoff-method-just-breathe/"
+  - "/breathing-training-your-mind-what-is-the-wim-hof-method-techniques/"
+  - "/breathing-training-your-mind-the-wim-hof-method-techniques/"
 wp_id: 9420
 comments: true
 ---

@@ -11,6 +11,7 @@ description: "Hydration and nutrition requirements of each runner are different.
 seo_keyword: "hydration"
 redirect_from:
   - "/running-half-marathon-hydration-and-nutrition-tips/"
+  - "/the-half-marathon-hydration-and-nutrition-tips/"
 wp_id: 2064
 comments: true
 ---

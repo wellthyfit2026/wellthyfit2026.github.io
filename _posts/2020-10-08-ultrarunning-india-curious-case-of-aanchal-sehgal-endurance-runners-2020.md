@@ -11,6 +11,11 @@ description: "Aanchal Sehgal runs as far as she possibly can....warms up with a 
 seo_keyword: "Running"
 redirect_from:
   - "/ultrarunning-india-curious-case-of-aanchal-sehgal-endurance-runners-2020/"
+  - "/ultrarunning-the-curious-case-of-aanchal-sehgal-endurance-runners-india/"
+  - "/ultrarunning-the-curious-case-of-aanchal-sehgal-endurance-runner-india/"
+  - "/ultrarunning-curious-case-of-aanchal-sehgal-endurance-runners-india/"
+  - "/ultrarunning-curious-case-of-aanchal-sehgal-endurance-runners-india-2020/"
+  - "/ultrarunning-the-curious-case-of-aanchal-sehgal-endurance-runner/"
 wp_id: 9460
 comments: true
 ---

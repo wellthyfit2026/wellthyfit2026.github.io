@@ -10,6 +10,8 @@ description: "Yoga inspires amazing transformations. This International Day of Y
 seo_keyword: "Yoga"
 redirect_from:
   - "/yoga-international-day-5-amazing-yoga-stories-world/"
+  - "/international-day-5-amazing-yoga-stories/"
+  - "/yoga-international-day-5-amazing-yoga-stories/"
 wp_id: 3573
 comments: true
 ---

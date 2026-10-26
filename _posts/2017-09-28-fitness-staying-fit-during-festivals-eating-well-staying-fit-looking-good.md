@@ -10,6 +10,9 @@ description: "The Festival season of drool-worthy platters is finally here! The 
 seo_keyword: "Festivals"
 redirect_from:
   - "/fitness-staying-fit-during-festivals-eating-well-staying-fit-looking-good/"
+  - "/fitness-staying-fit-during-festivals/"
+  - "/fitness-staying-fit-during-festivals-eating-well-looking-good/"
+  - "/fitness-staying-fit-during-festivals-eating-well-staying-fit/"
 wp_id: 4269
 comments: true
 ---

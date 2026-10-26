@@ -10,6 +10,7 @@ description: "Earthing - something so simple, something so beautiful, something 
 seo_keyword: "Earthing"
 redirect_from:
   - "/the-science-behind-earthing-and-its-benefits/"
+  - "/health-earthing-all-about-benefits-how-to-why/"
 wp_id: 6282
 comments: true
 ---

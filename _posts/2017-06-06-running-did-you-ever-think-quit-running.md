@@ -10,6 +10,7 @@ description: "Did you ever have a reason to quit running? Running is so natural 
 seo_keyword: "quit running"
 redirect_from:
   - "/running-did-you-ever-think-quit-running/"
+  - "/running-did-you-ever-think-quit-running-reason/"
 wp_id: 3491
 comments: true
 ---

@@ -9,6 +9,7 @@ image: "/assets/images/2016/05/1234567-copy-1.jpg"
 excerpt: "A short film celebrating fit mothers who lead by example."
 redirect_from:
   - "/celebraring-fit-mothers-watch-leading-example/"
+  - "/celebraring-fit-mothers-watch-leading-example__trashed/"
 wp_id: 310
 comments: true
 ---

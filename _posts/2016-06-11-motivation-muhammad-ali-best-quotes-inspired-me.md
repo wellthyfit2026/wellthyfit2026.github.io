@@ -11,6 +11,10 @@ description: "Growing up,who inspired you? Whose words still ring in your ears? 
 seo_keyword: "Motiva"
 redirect_from:
   - "/motivation-muhammad-ali-best-quotes-inspired-me/"
+  - "/muhammad-alis-best-quotes-champ-will-live-words/"
+  - "/muhammad-alis-best-quotes-champ-will-live-words-2__trashed/"
+  - "/muhammad-alis-best-quotes-champ-will-live-words/"
+  - "/muhammad-alis-best-quotes-champ-will-live-words-2/"
 wp_id: 384
 comments: true
 ---

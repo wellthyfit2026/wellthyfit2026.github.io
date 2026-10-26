@@ -8,6 +8,7 @@ image: "/assets/images/2016/05/reeti-Pic-24.jpg"
 excerpt: "For me, every trek deep and high into the mountains is the trip of a lifetime.Trekking through insurmountable regions, breathtaking scenery and crazy cultures is what I yearn for! The memories of my..."
 redirect_from:
   - "/fitness-training-tips-moderate-treks/"
+  - "/fitness-training-tips-moderate-treks__trashed/"
 wp_id: 341
 comments: true
 ---

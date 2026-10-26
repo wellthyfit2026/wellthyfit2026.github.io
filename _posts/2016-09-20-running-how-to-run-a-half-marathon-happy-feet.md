@@ -10,6 +10,8 @@ description: "Running a half marathon is on most Bucket Lists. It really is a bi
 seo_keyword: "Half Marathon"
 redirect_from:
   - "/running-how-to-run-a-half-marathon-happy-feet/"
+  - "/running-all-about-half-marathon-happy-feet/"
+  - "/what-is-happy-feet-all-about/"
 wp_id: 1921
 comments: true
 ---

@@ -11,6 +11,7 @@ description: "Maffetone method of running has lead to dramatic increase in the e
 seo_keyword: "Endurance"
 redirect_from:
   - "/running-improve-endurance-try-maffetone-method-100-days-phil-maffetone/"
+  - "/running-improve-endurance-try-maffetone-method-100-days/"
 wp_id: 3226
 comments: true
 ---

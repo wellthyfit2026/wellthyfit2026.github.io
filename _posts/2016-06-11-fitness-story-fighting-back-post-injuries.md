@@ -9,6 +9,7 @@ image: "/assets/images/2016/06/Smita-Somane-picbbbb.jpg"
 excerpt: "Ribbon of medal in my neck and my eyes full of tears - thrill, achievement, pain and miracle…  Me to myself, new rediscovery, new identity - Across the finishing line of SCMM half marathon.  My..."
 redirect_from:
   - "/fitness-story-fighting-back-post-injuries/"
+  - "/fitness-story-fighting-back-post-injuries__trashed/"
 wp_id: 379
 comments: true
 ---

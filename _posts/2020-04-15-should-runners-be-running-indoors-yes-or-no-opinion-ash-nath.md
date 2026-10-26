@@ -11,6 +11,7 @@ description: "Indoor running or outdoor running or no running in the times of Co
 seo_keyword: "Indoor Running"
 redirect_from:
   - "/should-runners-be-running-indoors-yes-or-no-opinion-ash-nath/"
+  - "/running-indoors-yes-or-no-opinion-ash-nath/"
 wp_id: 8847
 comments: true
 ---

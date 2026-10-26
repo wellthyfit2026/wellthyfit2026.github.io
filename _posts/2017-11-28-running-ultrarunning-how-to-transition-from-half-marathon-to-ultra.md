@@ -10,6 +10,7 @@ description: "Does ultrarunning intimidate you? On a half marathon distance and 
 seo_keyword: "Ultrarunning"
 redirect_from:
   - "/running-ultrarunning-how-to-transition-from-half-marathon-to-ultra/"
+  - "/running-ultra-how-to-transition-from-half-marathon-to-ultra/"
 wp_id: 5004
 comments: true
 ---

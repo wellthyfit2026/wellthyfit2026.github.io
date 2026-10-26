@@ -11,6 +11,7 @@ description: "You registered! Got your confirmation! And now it is finally happe
 seo_keyword: "race day half marathon airtel delhi half marathon"
 redirect_from:
   - "/running-runners-race-day-finally/"
+  - "/race-day/"
 wp_id: 2098
 comments: true
 ---

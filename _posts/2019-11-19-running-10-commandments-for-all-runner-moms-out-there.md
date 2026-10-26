@@ -11,6 +11,7 @@ description: "Running is the greatest metaphor for life. So is being a parent. L
 seo_keyword: "Running Women"
 redirect_from:
   - "/running-10-commandments-for-all-runner-moms-out-there/"
+  - "/running-10-commandments-for-runner-moms/"
 wp_id: 8385
 comments: true
 ---

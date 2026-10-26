@@ -10,6 +10,8 @@ description: "Eucalyptus honey has multiple benefits on human health. it's anti-
 seo_keyword: "honey"
 redirect_from:
   - "/health-foods-reasons-eucalyptus-honey-great/"
+  - "/5-reasons-you-should-switch-to-eucalyptus-honey/"
+  - "/health-reasons-switch-eucalyptus-honey/"
 wp_id: 1830
 comments: true
 ---

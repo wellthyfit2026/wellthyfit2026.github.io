@@ -11,6 +11,7 @@ description: "Travel is beautiful expecially when you combine it with your passi
 seo_keyword: "Travel"
 redirect_from:
   - "/travel-yoga-going-to-destinations-for-passion/"
+  - "/giving-a-destination-to-my-passion-yoga/"
 wp_id: 2256
 comments: true
 ---

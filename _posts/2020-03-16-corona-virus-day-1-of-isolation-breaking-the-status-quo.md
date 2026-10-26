@@ -10,6 +10,7 @@ description: "What good can come out of a disease that threatens the world with 
 seo_keyword: "Corona virus"
 redirect_from:
   - "/corona-virus-day-1-of-isolation-breaking-the-status-quo/"
+  - "/corona-virus-day-1-of-isolation-corona-virus-diary-breaking-status-quo/"
 wp_id: 8670
 comments: true
 ---

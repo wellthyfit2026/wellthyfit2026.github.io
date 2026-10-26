@@ -11,6 +11,8 @@ description: "Breathing the right way while running has bothered every runner. W
 seo_keyword: "Yoga"
 redirect_from:
   - "/running-yoga-for-runners-breathing-patterns-how-to/"
+  - "/yoga-runners-3-working-breathing-yoga__trashed/"
+  - "/yoga-runners-3-working-breathing-yoga/"
 wp_id: 558
 comments: true
 ---

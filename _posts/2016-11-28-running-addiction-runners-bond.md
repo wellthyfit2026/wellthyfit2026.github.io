@@ -11,6 +11,7 @@ description: "Your greatest bonds are made when you undergo moments of great hap
 seo_keyword: "running buddies"
 redirect_from:
   - "/running-addiction-runners-bond/"
+  - "/the-running-addiction-the-runners-bond/"
 wp_id: 2203
 comments: true
 ---

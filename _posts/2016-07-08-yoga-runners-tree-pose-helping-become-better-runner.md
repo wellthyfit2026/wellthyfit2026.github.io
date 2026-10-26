@@ -8,6 +8,7 @@ image: "/assets/images/2016/07/Tree-pose-featured-pic-5-1.jpg"
 excerpt: "I recently ran a 21k through a gorgeous trail in a forest in the heart of Delhi. I had peacocks and deer for company and it even rained for about 6 kms of my run. With all that is infamous about..."
 redirect_from:
   - "/yoga-runners-tree-pose-helping-become-better-runner/"
+  - "/yoga-runners-tree-pose-helping-become-better-runner__trashed/"
 wp_id: 515
 comments: true
 ---

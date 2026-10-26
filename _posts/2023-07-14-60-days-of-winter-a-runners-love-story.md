@@ -11,6 +11,7 @@ description: "He had made the first move. He had found her amidst the chaos. She
 seo_keyword: "60 Days of Winter - A Love Story"
 redirect_from:
   - "/60-days-of-winter-a-runners-love-story/"
+  - "/60-days-of-winter-a-love-story/"
 wp_id: 10031
 comments: true
 ---

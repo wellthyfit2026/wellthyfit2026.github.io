@@ -11,6 +11,7 @@ description: "Get Busy Training It’s the first Sunday of 2024. After an extrem
 seo_keyword: "Get Busy Training for a marathon"
 redirect_from:
   - "/get-busy-training-marathon/"
+  - "/get-busy-training/"
 wp_id: 10104
 comments: true
 ---

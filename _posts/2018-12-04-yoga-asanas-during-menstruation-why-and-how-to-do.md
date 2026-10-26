@@ -11,6 +11,10 @@ description: "Yoga asanas heal our organs during menstruation! We just need to k
 seo_keyword: "yoga"
 redirect_from:
   - "/yoga-asanas-during-menstruation-why-and-how-to-do/"
+  - "/yoga-during-menstruation-why-and-how__trashed/"
+  - "/yoga-during-menstruation-why-and-how/"
+  - "/fitness-yoga-during-menstruation-why-and-how/"
+  - "/fitness-yoga-asanas-during-menstruation-why-and-how-to-do/"
 wp_id: 498
 comments: true
 ---

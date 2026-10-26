@@ -11,6 +11,10 @@ description: "Healthy vs unhealthy foods- The debate is putting some amazing dai
 seo_keyword: "Healthy"
 redirect_from:
   - "/healthy-foods-that-we-should-be-eating-more/"
+  - "/449-2__trashed/"
+  - "/449-2/"
+  - "/healthy-foods-must-for-everyone/"
+  - "/healthy-foods-unhealthy-foods/"
 wp_id: 449
 comments: true
 ---

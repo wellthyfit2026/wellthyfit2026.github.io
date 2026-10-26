@@ -10,6 +10,8 @@ description: "Story of 2 girls in a roadless Himalayan Village - who are doing e
 seo_keyword: "Inspiration"
 redirect_from:
   - "/inspiration-story-of-two-girls-in-a-roadless-himalayan-village/"
+  - "/of-daring-dreams-harsh-realities-and-endless-inspiration-a-story-of-2-himalayan-girls/"
+  - "/inspiration-story-of-two-girls-in-a-himalayan-village/"
 wp_id: 4338
 comments: true
 ---

@@ -11,6 +11,7 @@ description: "Triathlete women in India are rare!Their stories are heart wrenchi
 seo_keyword: "Triathlete"
 redirect_from:
   - "/indias-true-triathlete-lady/"
+  - "/indias-true-triathlete-lady__trashed/"
 wp_id: 487
 comments: true
 ---

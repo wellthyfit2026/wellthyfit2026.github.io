@@ -11,6 +11,11 @@ description: "Running is enjoyable enough to make us make a few mistakes! We for
 seo_keyword: "Running"
 redirect_from:
   - "/fitness-running-deadly-mistakes-running-in-summer/"
+  - "/running-in-summer-5-deadly-mistakes-to-avoid/"
+  - "/running-in-summer__trashed/"
+  - "/running-in-summer-5-deadly-mistakes-to-avoid/"
+  - "/running-in-summer/"
+  - "/fitness-running-in-summer-mistakes/"
 wp_id: 262
 comments: true
 ---

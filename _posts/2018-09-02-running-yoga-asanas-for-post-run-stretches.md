@@ -11,6 +11,8 @@ description: "Post-Run Yoga Asanas calm down the body targeting the legs, lower 
 seo_keyword: "yoga, post-run"
 redirect_from:
   - "/running-yoga-asanas-for-post-run-stretches/"
+  - "/2-amazing-post-run-stretches__trashed/"
+  - "/2-amazing-post-run-stretches/"
 wp_id: 351
 comments: true
 ---

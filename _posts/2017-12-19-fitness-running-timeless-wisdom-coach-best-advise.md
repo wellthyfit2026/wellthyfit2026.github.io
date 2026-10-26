@@ -11,6 +11,7 @@ description: "Timeless Running Wisdom by Running Coach Ian Dexter who takes us t
 seo_keyword: "running"
 redirect_from:
   - "/fitness-running-timeless-wisdom-coach-best-advise/"
+  - "/running-timeless-wisdom-coach-best-advise/"
 wp_id: 5138
 comments: true
 ---

@@ -9,6 +9,7 @@ image: "/assets/images/2017/04/featured-image-moscow-300x300.bak.jpg"
 excerpt: "Last 25 months of running I have not gone to any place without my running shoes! My in-laws live in Muzzafarnagar - the city of goons. My act of running there might lead to riots. But the perpetual,..."
 redirect_from:
   - "/fitness-running-moscow-photologue/"
+  - "/running-moscow-photologue/"
 wp_id: 3071
 comments: true
 ---

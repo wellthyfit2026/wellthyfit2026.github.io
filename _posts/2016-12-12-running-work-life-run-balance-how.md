@@ -11,6 +11,7 @@ description: "There is work -life balance and then there is work-life-run Balanc
 seo_keyword: "Balance"
 redirect_from:
   - "/running-work-life-run-balance-how/"
+  - "/work-life-running-balance/"
 wp_id: 2244
 comments: true
 ---

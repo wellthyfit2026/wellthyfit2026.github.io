@@ -9,6 +9,7 @@ image: "/assets/images/2016/05/Samudra-pic-2wellthyfit-4-canviar.jpg"
 excerpt: "Almost every weekend there are beaming pictures of me in Facebook with my running group – Runbugs. My non-running friends look at these and think that I am some super-fit elite runner.  I am by no..."
 redirect_from:
   - "/fat-smoker-fit-non-smoker-3-conscious-steps/"
+  - "/fat-smoker-fit-non-smoker-3-conscious-steps__trashed/"
 wp_id: 315
 comments: true
 ---

@@ -11,6 +11,8 @@ description: "A Runner lives through many phases - distances, timings, injuries,
 seo_keyword: "Runner"
 redirect_from:
   - "/running-fitness-when-did-you-first-call-yourself-a-runner/"
+  - "/fitness-running-when-did-you-first-call-yourself-a-runner/"
+  - "/running-when-did-you-first-call-yourself-a-runner/"
 wp_id: 3118
 comments: true
 ---

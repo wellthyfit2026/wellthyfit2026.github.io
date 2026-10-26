@@ -11,6 +11,7 @@ description: "Women today own the world of Running! Still many haven't experienc
 seo_keyword: "Women"
 redirect_from:
   - "/running-5-reasons-women-should-run-bobbi-gibb/"
+  - "/bobi-gibb-women-should-run/"
 wp_id: 2730
 comments: true
 ---

@@ -10,6 +10,7 @@ description: "Ironman South Africa is the toughest Ironman course. Here is a rac
 seo_keyword: "Ironman"
 redirect_from:
   - "/ironman-south-africa-fitness-race-day-story-for-every-ironman-aspirant/"
+  - "/ironman-south-africa-race-day-story-for-every-ironman-aspirant/"
 wp_id: 3563
 comments: true
 ---

@@ -10,6 +10,7 @@ description: "Video on Resistance Band Exercises- Ensures great workout on non-r
 seo_keyword: "Resistance"
 redirect_from:
   - "/resistance-band-exercises-running-video/"
+  - "/resistance-band-exercises-running/"
 wp_id: 2790
 comments: true
 ---

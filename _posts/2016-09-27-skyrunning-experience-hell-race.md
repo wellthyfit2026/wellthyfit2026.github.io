@@ -11,6 +11,7 @@ description: "Why did I sign up for a race that was called “The Hell Race”? 
 seo_keyword: "Sky Running, Hell race, Solang Valley, Experience"
 redirect_from:
   - "/skyrunning-experience-hell-race/"
+  - "/1925-2/"
 wp_id: 1925
 comments: true
 ---

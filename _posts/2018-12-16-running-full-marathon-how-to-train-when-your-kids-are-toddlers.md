@@ -11,6 +11,8 @@ description: "Training for a full marathon is an amazing and tiring journey. Her
 seo_keyword: "Full Marathon"
 redirect_from:
   - "/running-full-marathon-how-to-train-when-your-kids-are-toddlers/"
+  - "/train-marathon-kids-toddlers__trashed/"
+  - "/train-marathon-kids-toddlers/"
 wp_id: 1571
 comments: true
 ---

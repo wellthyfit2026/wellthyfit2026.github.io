@@ -11,6 +11,8 @@ description: "I wrote a love letter to Yoga - to something I have been with for 
 seo_keyword: "Yoga"
 redirect_from:
   - "/life-fitness-passion-love-letter-yoga/"
+  - "/love-letter-yoga__trashed/"
+  - "/love-letter-yoga/"
 wp_id: 452
 comments: true
 ---

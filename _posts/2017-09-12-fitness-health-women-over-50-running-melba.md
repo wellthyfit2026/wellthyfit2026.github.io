@@ -10,6 +10,7 @@ description: "An interview with Melba, the Mexican Ambassdor, 59, a runner and t
 seo_keyword: "women"
 redirect_from:
   - "/fitness-health-women-over-50-running-melba/"
+  - "/melba-inspiration-runners-50/"
 wp_id: 4157
 comments: true
 ---

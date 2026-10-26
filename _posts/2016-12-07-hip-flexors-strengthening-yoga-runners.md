@@ -11,6 +11,7 @@ description: "We runners, often overlook a major culprit behind our running inju
 seo_keyword: "hip"
 redirect_from:
   - "/hip-flexors-strengthening-yoga-runners/"
+  - "/hip-flexors-yoga-runners/"
 wp_id: 2226
 comments: true
 ---

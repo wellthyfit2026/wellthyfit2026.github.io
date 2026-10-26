@@ -10,6 +10,7 @@ description: "Cardio and Walks just don't cut it when it comes to fitness beyond
 seo_keyword: "Fitness"
 redirect_from:
   - "/fitness-women-above-40-need-resistance-training-not-zumba-walks/"
+  - "/fitness-women-above-40-need-resistance-training/"
 wp_id: 4393
 comments: true
 ---

@@ -11,6 +11,7 @@ description: "Tempo runs have a huge role to play in excecuting a strong half ma
 seo_keyword: "Tempo runs"
 redirect_from:
   - "/running-how-to-work-on-tempo-runs-lessons/"
+  - "/running-how-i-handle-my-bad-runs-during-training/"
 wp_id: 8304
 comments: true
 ---

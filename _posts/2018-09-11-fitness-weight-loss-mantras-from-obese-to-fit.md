@@ -11,6 +11,10 @@ description: "Weight loss wasn't easy for someone who targeted a drop 24kgs. He 
 seo_keyword: "weight loss"
 redirect_from:
   - "/fitness-weight-loss-mantras-from-obese-to-fit/"
+  - "/fitness-mantras-obese-fit__trashed/"
+  - "/fitness-mantras-obese-fit/"
+  - "/weight-loss-fitness-mantras-obese-fit/"
+  - "/fitness-weight-loss-mantras-obese-fit/"
 wp_id: 230
 comments: true
 ---

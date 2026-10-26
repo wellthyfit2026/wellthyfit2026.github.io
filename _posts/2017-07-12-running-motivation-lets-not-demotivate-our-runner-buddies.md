@@ -11,6 +11,8 @@ description: "What impact does announcing your run timings have on your run budd
 seo_keyword: "running"
 redirect_from:
   - "/running-motivation-lets-not-demotivate-our-runner-buddies/"
+  - "/announcing-race-timings-demotivating-motivating-run-mates__trashed/"
+  - "/announcing-race-timings-demotivating-motivating-run-mates/"
 wp_id: 525
 comments: true
 ---

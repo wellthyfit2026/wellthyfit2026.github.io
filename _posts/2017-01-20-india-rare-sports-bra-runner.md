@@ -11,6 +11,7 @@ description: "A woman running in sports bra and shorts is rare to find in India!
 seo_keyword: "Sports Bra"
 redirect_from:
   - "/india-rare-sports-bra-runner/"
+  - "/sharp-dressed-runner-sports-bra-runner-anuradha-dutt/"
 wp_id: 2405
 comments: true
 ---

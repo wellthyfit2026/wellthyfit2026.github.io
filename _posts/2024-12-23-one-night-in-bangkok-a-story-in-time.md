@@ -11,6 +11,7 @@ description: "I had an unforgettable encounter on the streets of Bangkok. After 
 seo_keyword: "One Night In Bangkok - a story in time"
 redirect_from:
   - "/one-night-in-bangkok-a-story-in-time/"
+  - "/one-night-in-bangkok/"
 wp_id: 10579
 comments: true
 ---

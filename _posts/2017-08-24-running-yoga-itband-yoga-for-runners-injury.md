@@ -11,6 +11,10 @@ description: "Yoga for runners with injuries comes in particularly useful becaus
 seo_keyword: "Injury, Yoga,"
 redirect_from:
   - "/running-yoga-itband-yoga-for-runners-injury/"
+  - "/yoga-runners-yoga-stretches-it-band-injury/"
+  - "/yoga-runners-stretches-injury/"
+  - "/running-yoga-itband-injury-yoga-for-runners/"
+  - "/running-yoga-itband-injury-runners-yoga/"
 wp_id: 1813
 comments: true
 ---

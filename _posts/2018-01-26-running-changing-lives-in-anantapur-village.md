@@ -10,6 +10,7 @@ description: "Never doubt that a small group of thoughtful, committed citizens c
 seo_keyword: "Change"
 redirect_from:
   - "/running-changing-lives-in-anantapur-village/"
+  - "/running-changing-lives-in-anantpur-village/"
 wp_id: 5299
 comments: true
 ---

@@ -11,6 +11,7 @@ description: "Keeping the mental health of our kids in the best possible shape d
 seo_keyword: "Kids Mental Health"
 redirect_from:
   - "/working-on-mental-health-of-our-kids-mental-health-during-covid-times/"
+  - "/working-on-mental-health-of-our-kids-mental-health-during-corona-times/"
 wp_id: 8977
 comments: true
 ---

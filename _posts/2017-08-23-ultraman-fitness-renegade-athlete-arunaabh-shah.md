@@ -10,6 +10,7 @@ description: "An interview with 1st Indian Male to complete an Ultraman! His goa
 seo_keyword: "Athlete"
 redirect_from:
   - "/ultraman-fitness-renegade-athlete-arunaabh-shah/"
+  - "/ultraman-fitnesse-renegade-athlete-arunaabh-shah/"
 wp_id: 4024
 comments: true
 ---

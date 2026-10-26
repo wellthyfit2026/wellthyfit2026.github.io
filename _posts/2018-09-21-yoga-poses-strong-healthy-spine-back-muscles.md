@@ -10,6 +10,7 @@ description: "Yoga helps to keep the spine and the muscles around it in good sha
 seo_keyword: "Yoga"
 redirect_from:
   - "/yoga-poses-strong-healthy-spine-back-muscles/"
+  - "/yoga-strong-healthy-spine-back-muscles/"
 wp_id: 3852
 comments: true
 ---

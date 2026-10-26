@@ -11,6 +11,7 @@ description: "Here's a yoga video to demonstrate some of the post-run yoga stret
 seo_keyword: "yoga"
 redirect_from:
   - "/yoga-running-post-run-yoga-stretching-ior-runners/"
+  - "/yoga-stretching-runners/"
 wp_id: 2937
 comments: true
 ---

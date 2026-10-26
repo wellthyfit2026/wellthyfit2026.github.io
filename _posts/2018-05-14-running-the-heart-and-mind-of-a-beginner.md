@@ -10,6 +10,7 @@ description: "A runner -writer's short story to take you back to the times you b
 seo_keyword: "Running"
 redirect_from:
   - "/running-the-heart-and-mind-of-a-beginner/"
+  - "/running-heart-and-mind-of-a-beginner/"
 wp_id: 5827
 comments: true
 ---

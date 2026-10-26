@@ -11,6 +11,8 @@ description: "How to keep the zest for running alive in summers and how to run i
 seo_keyword: "Summer"
 redirect_from:
   - "/fitness-running-summer-heat-tips/"
+  - "/fitness-running-tips-heat-summer/"
+  - "/fitness-running-tips-summer-heat/"
 wp_id: 3100
 comments: true
 ---

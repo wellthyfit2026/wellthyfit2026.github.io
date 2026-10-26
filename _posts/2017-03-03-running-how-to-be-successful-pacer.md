@@ -11,6 +11,7 @@ description: "Pacing is tough! Being a pacer is tougher. Here is how a combined 
 seo_keyword: "Pacing"
 redirect_from:
   - "/running-how-to-be-successful-pacer/"
+  - "/successful-pacing-combined-effort-organiser-runner-pacer/"
 wp_id: 2742
 comments: true
 ---

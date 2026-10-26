@@ -21,7 +21,7 @@ main:
   - title: "About"
     url: "/about/"
   - title: "Contact"
-    url: "/contact/"
+    url: "/contact-us/"
 
 footer:
   - title: "Privacy Policy"
@@ -33,4 +33,4 @@ footer:
 
 secondary:
   - title: "Subscribe"
-    url: "/subscribe/"
+    url: "/newsletter-signup/"

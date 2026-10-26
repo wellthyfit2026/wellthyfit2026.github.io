@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome to Wellthyfit"
-permalink: /tanya-agarwal-wellthyfit/
+permalink: /about/
 image: "/assets/images/2021/08/SUP06741_2-scaled.jpg"
 redirect_from:
   - "/tanya-agarwal-wellthyfit/"
